@@ -4,7 +4,7 @@ app=Flask(__name__)
 
 @app.route("/")
 def home():
-    return "whatsapp karna"
+    return "Whatsapp karna free zhalis ki \n5 min bolu \nkal tuzhya sobat 2 min chat karun mi evadha khush zhalelo tula sangu nahi shakat mi"
 
 
 if __name__ == "__main__":
